@@ -1,0 +1,8 @@
+C:\Users\mariu\source\repos\Överavskrivningar\bin\Release\Överavskrivningar.exe
+C:\Users\mariu\source\repos\Överavskrivningar\bin\Release\Överavskrivningar.pdb
+C:\Users\mariu\source\repos\Överavskrivningar\obj\Release\Överavskrivningar.csprojAssemblyReference.cache
+C:\Users\mariu\source\repos\Överavskrivningar\obj\Release\Windows_form_2.Form1.resources
+C:\Users\mariu\source\repos\Överavskrivningar\obj\Release\Överavskrivningar.Properties.Resources.resources
+C:\Users\mariu\source\repos\Överavskrivningar\obj\Release\Överavskrivningar.csproj.GenerateResource.cache
+C:\Users\mariu\source\repos\Överavskrivningar\obj\Release\Överavskrivningar.exe
+C:\Users\mariu\source\repos\Överavskrivningar\obj\Release\Överavskrivningar.pdb
